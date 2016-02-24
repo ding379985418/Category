@@ -10,6 +10,14 @@
 
 @interface UIImage (Category)
 /**
+ *  中心拉伸一张图片
+ *
+ *  @param imageName 图片名称
+ *
+ *  @return 拉伸后的图片
+ */
++ (UIImage *)resizableImage:(NSString *)imageName;
+/**
  *  自由拉伸一张图片
  *
  *  @param name 图片名字
