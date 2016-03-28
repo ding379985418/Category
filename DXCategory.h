@@ -11,3 +11,4 @@
 #import "UIScrollView+Category.h"
 #import "UITableView+Category.h"
 #import "UIView+Category.h"
+#import "UIBarButtonItem+Category.h"
